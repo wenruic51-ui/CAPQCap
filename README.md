@@ -1,4 +1,4 @@
-# OFCap: Object-Focused Image Captioning
+# CAPQCap: Object-Focused Image Captioning
 
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
@@ -78,26 +78,11 @@ Image → Global + Local Features
 
 **Note**: Feature Fusion, Q-Former, and advanced decoding strategies use simplified implementations in this public version.
 
-## Citation
-
-```bibtex
-@article{ofcap2024,
-  title={OFCap: Object-Focused Image Captioning},
-  author={Your Name},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
-}
-```
 
 ## License
 
 Proprietary - Academic use permitted with citation. Commercial use requires licensing. See [LICENSE](LICENSE).
 
-## Contact
-
-- **Academic collaboration**: your.email@institution.edu
-- **Commercial licensing**: business@institution.edu
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ofcap/issues)
 
 ## Acknowledgments
 
