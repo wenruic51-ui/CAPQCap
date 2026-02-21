@@ -1,0 +1,119 @@
+# OFCap .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Model checkpoints
+checkpoints/
+checkpoints_*/
+*.model
+*.bin
+
+# Data files
+data/
+datasets/
+*.pkl
+*.pkl.gz
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Predictions and outputs
+predictions/
+outputs/
+results/
+logs/
+runs/
+
+# TensorBoard
+events.out.tfevents.*
+*.tfevents.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Proprietary (DO NOT COMMIT)
+proprietary/
+core_modules/
+full_implementation/
+confidential/
+
+# Internal documentation (DO NOT COMMIT)
+PROPRIETARY_TECH.md
+UPLOAD_GUIDE.md
+FILE_DESCRIPTION.md
+
+# Large files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.cache

@@ -1,0 +1,80 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2024 [Your Name/Institution]
+
+NOTICE: This software contains proprietary and confidential information.
+
+1. GRANT OF LICENSE
+
+This license grants you a limited, non-exclusive, non-transferable license to:
+   a) Use the software for academic research and non-commercial purposes
+   b) Modify the non-proprietary portions of the code
+   c) Cite the software in academic publications
+
+2. RESTRICTIONS
+
+You may NOT:
+   a) Use this software for commercial purposes without a separate commercial license
+   b) Redistribute the core proprietary components
+   c) Reverse engineer the abstracted proprietary modules
+   d) Remove or modify this license or copyright notices
+   e) Claim this work as your own
+
+3. PROPRIETARY COMPONENTS
+
+The following components are proprietary and abstracted:
+   - Feature Fusion Module implementation
+   - Q-Former Bridge architecture
+   - Advanced decoding strategies
+   - Post-processing optimization algorithms
+
+4. ACADEMIC USE
+
+Academic researchers may:
+   - Use the software for research purposes
+   - Publish results obtained using this software (with proper citation)
+   - Request collaboration for accessing full implementation
+
+5. COMMERCIAL LICENSE
+
+For commercial use, please contact:
+   Email: [your.email@institution.edu]
+   
+Commercial licenses are available and may include:
+   - Full source code access
+   - Technical support
+   - Custom implementations
+
+6. CITATION REQUIREMENT
+
+If you use this software in academic work, you MUST cite:
+
+@article{ofcap2024,
+  title={OFCap: Object-Focused Image Captioning with Advanced Visual-Language Alignment},
+  author={Your Name},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={2024}
+}
+
+7. WARRANTY DISCLAIMER
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. TERMINATION
+
+This license automatically terminates if you fail to comply with any of its terms.
+
+10. GOVERNING LAW
+
+This license shall be governed by the laws of [Your Jurisdiction].
+
+For questions about this license, contact: [your.email@institution.edu]
