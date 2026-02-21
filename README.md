@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-2.0+-orange.svg)](https://pytorch.org/)
 
->  **Simplified Public Version**: Core architecture is proprietary. This release is for academic research and demonstration purposes.The complete code will be uploaded upon the completion of code sorting and consolidation.
+>  **Simplified Public Version**: Core architecture is proprietary.The complete code will be uploaded upon the completion of code sorting and consolidation.
 
 An image captioning model combining global scene understanding with local object-level details for generating natural language descriptions.
 
